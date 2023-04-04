@@ -4,7 +4,7 @@
 --请给出一个数字类型为KEY的连续表，相当于是12颗小球
 --请随意修改此表的12个数值，保证有且只有一个数值与其他十一个不一样，然后进行测试，
 
---菜鸟们可以将所以代码复制到 https://c.runoob.com/compile/66 即可运行测试
+--可以将所以代码复制到 https://c.runoob.com/compile/66 即可运行测试
 
 local allBalls = {0,0,0,5,0,0,0,0,0,0,0,0}
 
@@ -165,4 +165,4 @@ function threeToResult(A,B,C,isBig)
 end
 mainQes()
 
---菜鸟们可以将所有内容复制到 https://c.runoob.com/compile/66 即可运行测试
+--可以将所有内容复制到 https://c.runoob.com/compile/66 即可运行测试
